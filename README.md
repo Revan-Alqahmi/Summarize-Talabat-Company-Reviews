@@ -6,4 +6,4 @@ In today's business scene, understanding customer needs is of utmost importance 
 
 To address this challenge, my team and I propose leveraging Natural Language Processing (NLP) to develop software that efficiently classifies customer reviews. This software will identify positive and negative feedback, enabling the company to address issues promptly and retain satisfied customers.
 
-By employing NLP techniques, Talabat can gain valuable insights into customer preferences and enhance its services. The outcome of our project is a software solution based on NLP that effectively processes and classifies customer reviews for Talabat Company.
+The outcome is a Python-based software solution that utilizes Natural Language Processing (NLP) and Machine Learning algorithms to effectively analize and classify customer reviews for Talabat Company with an accuracy of approximately 86%.
