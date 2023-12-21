@@ -1,6 +1,6 @@
-# Summarize-Talabat-Company-Reviews-
+# Summarize-Talabat-Company-Reviews
 
-This is my project in the Natural Language Processing course.
+This is my project in the Natural Language Processing course in UQU.
 
 In today's business scene, understanding customer needs is of utmost importance for companies like Talabat to improve their services. However, manually reviewing a large number of customer comments can be time-consuming and expensive, resulting in delays in implementing improvements and customer dissatisfaction.
 
